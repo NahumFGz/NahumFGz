@@ -68,69 +68,6 @@
     </div>
 </div>
 
-<h3>🔭 Projects :</h3>
-
-
-<style>
-    .column {
-        width: 100%;
-    }
-
-    @media (min-width: 600px) {
-        .column {
-            width: 48%;
-        }
-    }
-</style>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <!-- Columna 2 -->
-    <div class="column" style="margin-bottom: 10px;">
-        <!-- Puedes agregar otra tarjeta de GitHub aquí -->
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahumfgz&repo=svoice_backend_cpu" alt="Proyecto 1" style="width: 100%;" />
-        </a>
-    </div>
-    <!-- Columna 2 -->
-    <div class="column" style="margin-bottom: 10px;">
-        <!-- Puedes agregar otra tarjeta de GitHub aquí -->
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahumfgz&repo=FeatureSelectionAlgorithms" alt="Proyecto 2" style="width: 100%;" />
-        </a>
-    </div>
-    <!-- Columna 2 -->
-    <div class="column" style="margin-bottom: 10px;">
-        <!-- Puedes agregar otra tarjeta de GitHub aquí -->
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahumfgz&repo=DANF-VOICE" alt="Proyecto 3" style="width: 100%;" />
-        </a>
-    </div>
-    <!-- Columna 2 -->
-    <div class="column" style="margin-bottom: 10px;">
-        <!-- Puedes agregar otra tarjeta de GitHub aquí -->
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahumfgz&repo=CodigoEnigma" alt="Proyecto 4" style="width: 100%;" />
-        </a>
-    </div>
-    <!-- Columna 2 -->
-    <div class="column" style="margin-bottom: 10px;">
-        <!-- Puedes agregar otra tarjeta de GitHub aquí -->
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahumfgz&repo=BERT-Backend-Flask" alt="Proyecto 5" style="width: 100%;" />
-        </a>
-    </div>
-    <!-- Columna 2 -->
-    <div class="column" style="margin-bottom: 10px;">
-        <!-- Puedes agregar otra tarjeta de GitHub aquí -->
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahumfgz&repo=ScrapTrello" alt="Proyecto 6" style="width: 100%;" />
-        </a>
-    </div>
-</div>
-
-
-
-
 <!--
 **NahumFGz/NahumFGz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
