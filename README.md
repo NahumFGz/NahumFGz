@@ -4,7 +4,7 @@
 ### 👨‍💻 About Me :
 
 - 📝 I work as a Data Enginner
-- 📫 How to reach me **nahum.flores@unmsm.edu.pe**
+- 📫 How to reach me **ngutierrez2507@gmail.com**
 
 <div align="left">
     <h3>🔨 Skills :</h3>
