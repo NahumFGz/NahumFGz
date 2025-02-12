@@ -49,9 +49,11 @@
         <!-- JavaScript -->
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="36" style="margin-right: 10px;"/>
         <!-- Java -->
-        <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" height="40" style="margin-right: 3px;"/>
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" height="40" style="margin-right: 3px;"/>
         <!-- React -->
-        <img src="https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png" alt="React" height="40" style="margin-right: 10px;"/>
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" height="40" style="margin-right: 10px;"/>
+        <!-- Fast API -->
+        <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="Fast API" height="40" style="margin-right: 10px;"/>
         <!-- Flask -->
         <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" alt="Flask" height="40" style="margin-right: 10px;"/>
     </div>
