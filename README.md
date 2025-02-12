@@ -22,8 +22,6 @@
         <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="Hadoop" height="40" style="margin-right: 10px;"/>
         <!-- Docker -->
         <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" height="40" style="margin-right: 10px;"/>
-        <!-- Scala -->
-        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png" alt="Scala" width="77" height="40" style="margin-right: 1px;"/>
         <!-- Spark -->
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Spark-logo-192x100px.png" alt="Spark" width="77" height="40" style="margin-right: 10px;"/>
     </div>
