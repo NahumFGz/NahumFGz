@@ -19,13 +19,13 @@
         <!-- Databricks -->
         <img src="https://databricks.gallerycdn.vsassets.io/extensions/databricks/databricks/1.2.2/1698066040480/Microsoft.VisualStudio.Services.Icons.Default" alt="Databricks" width="40" height="40" style="margin-right: 10px;"/>
         <!-- Hadoop -->
-        <img src="https://icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_169586.png" alt="Hadoop" height="40" style="margin-right: 10px;"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="Hadoop" height="40" style="margin-right: 10px;"/>
         <!-- Docker -->
-        <img src="https://icon-icons.com/icons2/2415/PNG/512/docker_plain_wordmark_logo_icon_146555.png" alt="Docker" height="40" style="margin-right: 10px;"/>
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" height="40" style="margin-right: 10px;"/>
         <!-- Scala -->
-        <img src="https://icon-icons.com/icons2/2699/PNG/512/scala_lang_logo_icon_168847.png" alt="Scala" width="77" height="40" style="margin-right: 1px;"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png" alt="Scala" width="77" height="40" style="margin-right: 1px;"/>
         <!-- Spark -->
-        <img src="https://icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png" alt="Spark" width="77" height="40" style="margin-right: 10px;"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Spark-logo-192x100px.png" alt="Spark" width="77" height="40" style="margin-right: 10px;"/>
     </div>
     <!--  -->
     <!-- Sección Machine Learning -->
@@ -45,17 +45,17 @@
     <div style="margin-left: 33px;">
         <h4>Languages ​​and frameworks</h4>
         <!-- Python -->
-        <img src="https://icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" height="40" style="margin-right: 1px;"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" height="40" style="margin-right: 1px;"/>
         <!-- C++ -->
         <img src="https://styles.redditmedia.com/t5_2qh6x/styles/communityIcon_xgorujtjrj571.png?width=256&s=12f60b3bcbd6ac2aea90e277b1ff327f91523032" alt="C++"  height="40" style="margin-right: 1px;"/>
         <!-- JavaScript -->
-        <img src="https://icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" height="36" style="margin-right: 10px;"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="36" style="margin-right: 10px;"/>
         <!-- Java -->
-        <img src="https://icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="Java" height="40" style="margin-right: 3px;"/>
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" height="40" style="margin-right: 3px;"/>
         <!-- React -->
-        <img src="https://icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React" height="40" style="margin-right: 10px;"/>
+        <img src="https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png" alt="React" height="40" style="margin-right: 10px;"/>
         <!-- Flask -->
-        <img src="https://icon-icons.com/icons2/2699/PNG/512/pocoo_flask_logo_icon_168045.png" alt="Flask" height="40" style="margin-right: 10px;"/>
+        <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" alt="Flask" height="40" style="margin-right: 10px;"/>
     </div>
     <!--  -->
     <!-- Sección Otros -->
