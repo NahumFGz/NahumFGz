@@ -3,7 +3,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 I work as a Data Enginner
+- 📝 I work as a ML Enginner
 - 📫 How to reach me **ngutierrez2507@gmail.com**
 
 <div align="left">
