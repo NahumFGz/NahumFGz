@@ -1,84 +1,43 @@
-<h1 align="center">Hi 👋, I'm Nahum</h1>
-<h3 align="center">A passionate software engineer from Peru</h3>
 
-### 👨‍💻 About Me :
+<h1 align="center">Hi, I'm Nahum Flores <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 📝 I work as a ML Enginner
-- 📫 How to reach me **ngutierrez2507@gmail.com**
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&duration=4000&pause=500&color=05C35C&center=true&vCenter=true&random=false&width=700&height=80&lines=Data+Engineer;Data+Science+Master's+Student;ML+Engineer;Software+Developer;AI+Researcher" alt="Typing SVG" /></a>
+</p>
 
-<div align="left">
-    <h3>🔨 Skills :</h3>
-    <!--  -->
-    <!-- Sección Cloud -->
-    <div style="margin-left: 33px;">
-        <h4>Cloud</h4>
-        <!-- AWS -->
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-aws-1869025-1583149.png?f=webp" alt="AWS" width="40" height="40" style="margin-right: 10px;"/> 
-        <!-- Google cloud -->
-        <img src="https://managedsolutions.k2partnering.com/wp-content/uploads/2022/12/google-cloud-2038785-1721675.webp" alt="Google Cloud Platform" width="40" height="40" style="margin-right: 10px;"/> 
-        <!-- Databricks -->
-        <img src="https://databricks.gallerycdn.vsassets.io/extensions/databricks/databricks/1.2.2/1698066040480/Microsoft.VisualStudio.Services.Icons.Default" alt="Databricks" width="40" height="40" style="margin-right: 10px;"/>
-        <!-- Hadoop -->
-        <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="Hadoop" height="40" style="margin-right: 10px;"/>
-        <!-- Docker -->
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" height="40" style="margin-right: 10px;"/>
-        <!-- Spark -->
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Spark-logo-192x100px.png" alt="Spark" width="77" height="40" style="margin-right: 10px;"/>
-    </div>
-    <!--  -->
-    <!-- Sección Machine Learning -->
-    <div style="margin-left: 33px;">
-        <h4>Machine Learning</h4>
-        <!-- Pythorch -->
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pythorch" width="40" height="40" style="margin-right: 10px;"/>
-        <!-- Tensorflow -->
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40" style="margin-right: 10px;"/>
-        <!-- Scikit Learn -->
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40" style="margin-right: 10px;"/>
-        <!-- XGboost -->
-        <img src="https://www.intel.com/content/dam/www/central-libraries/us/en/images/2022-11/xgboost-logo-rwd.png.rendition.intel.web.480.360.png" alt="XGboost" width="40" height="40" style="margin-right: 10px;"/>
-    </div>
-    <!--  -->
-    <!-- Sección Languages ​​and frameworks -->
-    <div style="margin-left: 33px;">
-        <h4>Languages ​​and frameworks</h4>
-        <!-- Python -->
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" height="40" style="margin-right: 1px;"/>
-        <!-- C++ -->
-        <img src="https://styles.redditmedia.com/t5_2qh6x/styles/communityIcon_xgorujtjrj571.png?width=256&s=12f60b3bcbd6ac2aea90e277b1ff327f91523032" alt="C++"  height="40" style="margin-right: 1px;"/>
-        <!-- JavaScript -->
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="36" style="margin-right: 10px;"/>
-        <!-- Java -->
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" height="40" style="margin-right: 3px;"/>
-        <!-- React -->
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" height="40" style="margin-right: 10px;"/>
-        <!-- Fast API -->
-        <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="Fast API" height="40" style="margin-right: 10px;"/>
-        <!-- Flask -->
-        <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" alt="Flask" height="40" style="margin-right: 10px;"/>
-    </div>
-    <!--  -->
-    <!-- Sección Otros -->
-    <div style="margin-left: 33px;">
-        <h4>Others</h4>
-        <!-- Arduino -->
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="margin-right: 10px;"/>
-        <!-- Seleniu, -->
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" style="margin-right: 10px;"/>
-    </div>
-</div>
+## <img src="https://img.icons8.com/?size=100&id=F9ipR5cXjxhq&format=png&color=000000" width="3.5%"> About Me
 
-<!--
-**NahumFGz/NahumFGz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 I'm Nahum, a Data Engineer and AI practitioner with 4+ years of experience designing and implementing scalable data solutions across fintech, banking, and insurance industries.
 
-Here are some ideas to get you started:
+- 🛠️ I specialize in building efficient ETL pipelines, automating processes, and deploying ML models for fraud detection and operational optimization using tools like Python, PySpark, and AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 I combine strong technical execution with Agile and Lean thinking to deliver high-impact results, reduce execution times, and drive continuous improvement across teams.
+
+- 🧠 My research has focused on deep learning, NLP, and social impact — including published work on audio-based transcription, gender-based violence detection on social media, and AI-assisted medical diagnostics.
+
+- 🎓 I’m currently pursuing a Master’s in Data Science and love exploring how technology can solve real-world problems and improve decision-making.
+
+- 🌐 Explore my work:  
+  [💼 Portfolio & CV](https://nahumfolio.vercel.app/)  
+  [🧾 Minimal CV Site](https://sweet-panda-b2d366.netlify.app/)  
+  [🧠 Projects, Blog & Articles](https://portfolio-nahum-fg.vercel.app/)  
+  [📚 ResearchGate – My Publications](https://www.researchgate.net/profile/Nahum-Flores-Gutierrez)
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="2.5%"> Tech Stack
+
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,ubuntu,python,scala,java,cpp,js,ts,nodejs,react,express,graphql,fastapi,flask,pytorch,tensorflow,sklearn,postgres,mysql,mongodb,dynamodb,git,github,bitbucket" />
+
+  </a>
+</p>
+
+## <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Statistics.gif" width="2.5%"> GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/NahumFGz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NahumFGz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NahumFGz&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="277em" src="https://github-readme-activity-graph.vercel.app/graph?username=NahumFGz&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=false&include_all_commits=true&count_private=true">
+</a>
+</p>
