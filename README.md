@@ -18,7 +18,7 @@
 - 🎓 I’m currently pursuing a Master’s in Data Science and love exploring how technology can solve real-world problems and improve decision-making.
 
 - 🌐 Explore my work:  
-  [💼 CV](https://nahumfolio.vercel.app/)  
+  [💼 CV Site](https://nahumfolio.vercel.app/)  
   [🧾 Minimal CV Site](https://sweet-panda-b2d366.netlify.app/)  
   [🧠 Projects, Blog & Articles](https://portfolio-nahum-fg.vercel.app/)  
   [📚 ResearchGate – My Publications](https://www.researchgate.net/profile/Nahum-Flores-Gutierrez)
